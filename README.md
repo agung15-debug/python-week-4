@@ -5,4 +5,4 @@ Pandas is a library in Python that provides easy-to-use data structures and data
 
 - Data Series
 
-Pandas Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
+   Pandas Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively   called index.
