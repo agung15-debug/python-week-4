@@ -15,6 +15,10 @@ Pandas is a library in Python that provides easy-to-use data structures and data
 
    A Pandas DataFrame is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns.
 
-- Pandas import csv file
-   The pandas function read_csv() reads in values, where the delimiter is a comma character. You can export a file into a csv file in any modern office suite including Google Sheets
+   * Pandas import csv file
 
+     The pandas function read_csv() reads in values, where the delimiter is a comma character. You can export a file into a csv file in any modern office suite including Google Sheets
+
+   * head()function
+  
+     This function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
