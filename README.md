@@ -2,6 +2,7 @@
 **1. Pandas**
 
 Pandas is a library in Python that provides easy-to-use data structures and data analysis. Pandas is commonly used to create tables, change data dimensions, check data, and so on. The basic data structure in Pandas is called DataFrame, which makes it easy for us to read a file with many types of formats such as .txt, .csv, and .tsv files. This feature will make it a table and can also process data using operations such as join, distinct, group by, aggregation, and other techniques found in SQL.
+
 import pandas = import pandas as pd
 
 - Data Series
@@ -75,6 +76,7 @@ import pandas = import pandas as pd
   **2. Matplotlib**
   
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. The advanteges using matplotlib are customize visual style and layout, export to many file formats and embed in JupyterLab and Graphical User Interfaces.
+
 import library matplotlib = import matplotlib.pyplot as plt
 
 - line chart
@@ -108,6 +110,7 @@ import library matplotlib = import matplotlib.pyplot as plt
 **3. Seaborn**
   
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
 import library seabron = import seaborn as sns
 
 - line chart
