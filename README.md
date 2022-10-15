@@ -73,7 +73,7 @@ import pandas = import pandas as pd
 
      This function to see the amount of each unique value in the data.
   
-  **2. Matplotlib**
+**2. Matplotlib**
   
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. The advanteges using matplotlib are customize visual style and layout, export to many file formats and embed in JupyterLab and Graphical User Interfaces.
 
